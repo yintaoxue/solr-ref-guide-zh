@@ -5,7 +5,7 @@
 
 本文档的英文原版可以在[这里](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)下载，官方cwiki地址是[这里](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)。
 
-当前翻译进度：(4/395)=1%
+当前翻译进度：(11/511)=2%
 
 ## 目录
 
