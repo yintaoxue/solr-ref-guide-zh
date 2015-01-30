@@ -1,21 +1,57 @@
-# Apache Solr 官方参考手册4.10（中文版）
+# Apache Solr 官方参考手册4.10（中文版） #
 本文档是Apache Solr项目官方参考文档4.10（[Apache Solr Reference Guide 4.10](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)）的中文翻译版，旨在方便大家学习和使用Solr，Solr官方手册能够系统完整的介绍Solr的功能，模块介绍得详细可操作，可以了解设计思路和最佳实践，对Solr有更加准确完整的学习和掌握。
 
 对原文档做翻译是为了方便快速入门和查阅，在尊重原文内容的基础上，适当进行了意译和词句调整，使得读起来更通顺易于理解，一些专业词组保留了英文，因为翻译过来反而更难理解，本文档难免有疏漏，欢迎大家提交issue一起完善，有兴趣的同学可以一起参与翻译，在学习和分享中获得进步:)
 
 本文档的英文原版可以在[这里](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)下载，官方cwiki地址是[这里](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)。
 
-当前翻译进度：(11/511)=2%
+当前翻译进度：(16/511)=3%
 
-## 目录
+## 目录 ##
 
-### 0 [说明](0-apache-solr-reference-guide.md)
-### 1.1 [About This Guide](1.1-about-this-guide.md)
-### 1.2 [Getting Started](1.2.0-getting-started.md)
-##### 1.2.1 [安装Solr](1.2.1-installing-solr.md)
-##### 1.2.2 [运行Solr](1.2.2-running-solr.md)
-##### 1.2.3 [快速总览](1.2.3-a-quick-overview.md)
-##### 1.2.4 [更进一步](1.2.4-a-step-closer.md)
+### 0 [说明](0-apache-solr-reference-guide.md) ###
+### 1.1 [About This Guide](1.1-about-this-guide.md) ###
+### 1.2 [Getting Started](1.2.0-getting-started.md) ###
+##### 1.2.1 [安装Solr](1.2.1-installing-solr.md) #####
+##### 1.2.2 [运行Solr](1.2.2-running-solr.md) #####
+##### 1.2.3 [快速总览](1.2.3-a-quick-overview.md) #####
+##### 1.2.4 [更进一步](1.2.4-a-step-closer.md) #####
+### 1.3 [升级Solr](1.3-upgrading-solr.md) ###
+### 1.4 [Solr管理后台](1.4.0-using-the-solr-administration-user-interface.md)
+
+*1.4.1[Solr管理后台概览](1.4.1-overview-of-the-solr-admin-ui.md)*
+
+*1.4.2[获得帮助](1.4.2-getting-assistance.md)*
+
+*1.4.3[日志](1.4.3-logging.md)*
+
+*1.4.4[Cloud界面](1.4.4-cloud-screens.md)*
+
+*1.4.5[Core Admin](1.4.5-core-admin.md)*
+
+*1.4.6[Java参数](1.4.6-java-properties.md)*
+
+*1.4.7[Thread Dump](1.4.7-thread-dump.md)*
+
+*1.4.8[Core管理工具](1.4.8.0-core-specific-tools.md)*
+
+*1.4.8.1[Analysis](1.4.8.1-analysis-screen.md)*
+
+*1.4.8.2[Dataimport](1.4.8.2-dataimport-screen.md)*
+
+*1.4.8.3[Documents](1.4.8.3-documents-screen.md)*
+
+*1.4.8.4[Files](1.4.8.4-files-screen.md)*
+
+*1.4.8.5[Ping](1.4.8.5-ping.md)*
+
+*1.4.8.6[插件及统计](1.4.8.6-plugins-and-stats-screen.md)*
+
+*1.4.8.7[查询界面](1.4.8.7-query-screen.md)*
+
+*1.4.8.8[Replication](1.4.8.8-replication-screen.md)*
+
+*1.4.8.9[Schema](1.4.8.9-schema-browser-screen.md)*
 
 ### LICENSE
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements.  See the NOTICE file distributed with this work for additional information regarding copyright ownership.  The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at
