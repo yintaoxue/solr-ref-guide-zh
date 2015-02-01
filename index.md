@@ -1,14 +1,4 @@
 # Apache Solr 官方参考手册4.10（中文版） #
-本文档是Apache Solr项目官方参考文档4.10（[Apache Solr Reference Guide 4.10](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)）的中文翻译版，旨在方便大家学习和使用Solr，Solr官方手册能够系统完整的介绍Solr的功能，模块介绍得详细可操作，可以了解设计思路和最佳实践，对Solr有更加准确完整的学习和掌握。
-
-对原文档做翻译是为了方便快速入门和查阅，在尊重原文内容的基础上，适当进行了意译和词句调整，使得读起来更通顺易于理解，一些专业词组保留了英文，因为翻译过来反而更难理解，本文档难免有疏漏，欢迎大家提交issue一起完善，有兴趣的同学可以一起参与翻译，在学习和分享中获得进步:)
-
-翻译Solr官方文档的想法，实际上缘于三年前刚学Solr的时候，中文资料少，官方提供的参考手册很详细，当时就有翻译的想法，只不过一直未行动，以为会有人来翻译的，结果两年多了还没有人来翻译，还是自己来完成当初的想法吧。2015，实践最初的想法。
-
-本文档的英文原版可以在[这里](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)下载，官方cwiki地址是[这里](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)。
-
-当前翻译进度：(24/511)=4%
-
 
 ## 目录 ##
 
@@ -30,6 +20,24 @@
 #### 1.4.7[Thread Dump](solr-ref-guide-zh/1.4.7-thread-dump.md) ####
 
 *1.4.8[Core管理工具](solr-ref-guide-zh/1.4.8.0-core-specific-tools.md)*
+
+*1.4.8.1[Analysis](solr-ref-guide-zh/1.4.8.1-analysis-screen.md)*
+
+*1.4.8.2[Dataimport](solr-ref-guide-zh/1.4.8.2-dataimport-screen.md)*
+
+*1.4.8.3[Documents](solr-ref-guide-zh/1.4.8.3-documents-screen.md)*
+
+*1.4.8.4[Files](solr-ref-guide-zh/1.4.8.4-files-screen.md)*
+
+*1.4.8.5[Ping](solr-ref-guide-zh/1.4.8.5-ping.md)*
+
+*1.4.8.6[插件及统计](solr-ref-guide-zh/1.4.8.6-plugins-and-stats-screen.md)*
+
+*1.4.8.7[查询界面](solr-ref-guide-zh/1.4.8.7-query-screen.md)*
+
+*1.4.8.8[Replication](solr-ref-guide-zh/1.4.8.8-replication-screen.md)*
+
+*1.4.8.9[Schema](solr-ref-guide-zh/1.4.8.9-schema-browser-screen.md)*
 
 ### LICENSE
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements.  See the NOTICE file distributed with this work for additional information regarding copyright ownership.  The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at
