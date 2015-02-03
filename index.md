@@ -18,12 +18,9 @@
 #### 1.4.5[Core Admin](solr-ref-guide-zh/1.4.5-core-admin.md) ####
 #### 1.4.6[Java参数](solr-ref-guide-zh/1.4.6-java-properties.md) ####
 #### 1.4.7[Thread Dump](solr-ref-guide-zh/1.4.7-thread-dump.md) ####
-
-*1.4.8[Core管理工具](solr-ref-guide-zh/1.4.8.0-core-specific-tools.md)*
-
-*1.4.8.1[Analysis](solr-ref-guide-zh/1.4.8.1-analysis-screen.md)*
-
-*1.4.8.2[Dataimport](solr-ref-guide-zh/1.4.8.2-dataimport-screen.md)*
+#### 1.4.8[Core管理工具](solr-ref-guide-zh/1.4.8.0-core-specific-tools.md) ####
+#### 1.4.8.1[Analysis](solr-ref-guide-zh/1.4.8.1-analysis-screen.md) ####
+#### 1.4.8.2[Dataimport](solr-ref-guide-zh/1.4.8.2-dataimport-screen.md) ####
 
 *1.4.8.3[Documents](solr-ref-guide-zh/1.4.8.3-documents-screen.md)*
 

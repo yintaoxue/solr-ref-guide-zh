@@ -3,9 +3,9 @@
 
 对原文档做翻译是为了方便快速入门和查阅，在尊重原文内容的基础上，适当进行了意译和词句调整，使得读起来更通顺易于理解，一些专业词组保留了英文，因为翻译过来反而更难理解，本文档难免有疏漏，欢迎大家提交issue一起完善，有兴趣的同学可以一起参与翻译，在学习和分享中获得进步:)
 
-本文档的英文原版可以在[这里](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)下载，官方cwiki地址是[这里](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)。
+本文档的地址是[这里](https://github.com/yintaoxue/solr-ref-guide-zh)，英文原版可以在[这里](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)下载，官方cwiki地址是[这里](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)。
 
-当前翻译进度：(24/511)=4%
+当前翻译进度：(26/511)=5%
 
 
 ## 目录 ##
