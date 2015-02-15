@@ -5,7 +5,7 @@
 
 本文档的地址是[这里](https://github.com/yintaoxue/solr-ref-guide-zh)，英文原版可以在[这里](http://archive.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-4.10.pdf)下载，官方cwiki地址是[这里](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)。
 
-当前翻译进度：(26/511)=5%
+当前翻译进度：(35/511)=7%
 
 
 ## 目录 ##
@@ -18,6 +18,9 @@
 ##### 1.2.3 [快速总览](solr-ref-guide-zh/1.2.3-a-quick-overview.md) #####
 ##### 1.2.4 [更进一步](solr-ref-guide-zh/1.2.4-a-step-closer.md) #####
 ### 1.3 [升级Solr](solr-ref-guide-zh/1.3-upgrading-solr.md) ###
+
+----------
+
 ### 1.4 [Solr管理后台](solr-ref-guide-zh/1.4.0-using-the-solr-administration-user-interface.md) ####
 #### 1.4.1[Solr管理后台概览](solr-ref-guide-zh/1.4.1-overview-of-the-solr-admin-ui.md) ####
 #### 1.4.2[获得帮助](solr-ref-guide-zh/1.4.2-getting-assistance.md) ####
@@ -26,8 +29,22 @@
 #### 1.4.5[Core Admin](solr-ref-guide-zh/1.4.5-core-admin.md) ####
 #### 1.4.6[Java参数](solr-ref-guide-zh/1.4.6-java-properties.md) ####
 #### 1.4.7[Thread Dump](solr-ref-guide-zh/1.4.7-thread-dump.md) ####
+#### 1.4.8[Core管理工具](solr-ref-guide-zh/1.4.8.0-core-specific-tools.md) ####
 
-*1.4.8[Core管理工具](solr-ref-guide-zh/1.4.8.0-core-specific-tools.md)*
+----------
+
+### 1.5[文档、字段和schema设计](1.5.0-documents-fields-schema-design.md) ###
+#### 1.5.1[文档、字段和schema设计概述](1.5.1-overview-of-documents-fields-schema-design.md) ####
+#### 1.5.2[Solr字段类型](1.5.2.0-solr-field-types.md) ####
+#### 1.5.3[定义字段](1.5.3-defining-fields.md) ####
+#### 1.5.4[拷贝字段](1.5.4-copying-fields.md) ####
+#### 1.5.5[动态字段](1.5.5-dynamic-fields.md) ####
+#### 1.5.6[Schema API](1.5.6-schema-api.md) ####
+#### 1.5.7[其他Schema属性](1.5.7-other-schema-elements.md) ####
+#### 1.5.8[综合配置](1.5.8-putting-the-pieces-together.md) ####
+#### 1.5.9[DocValues](1.5.9-docvalues.md) ####
+#### 1.5.10[Schemaless Mode](1.5.10-schemaless-mode.md) ####
+
 
 ### LICENSE
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements.  See the NOTICE file distributed with this work for additional information regarding copyright ownership.  The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.  You may obtain a copy of the License at
